@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Shihab_Ul_Islam</h1>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/61d418a6-e06d-4d25-b092-672913d7113b" />
+ <h1 align="center">Hi 👋, I'm Shihab
+_Ul_Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab-5&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-5" /> </p>
