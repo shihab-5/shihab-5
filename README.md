@@ -67,6 +67,7 @@ I'm a passionate frontend developer from Bangladesh who loves turning ideas into
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-5" alt="shihab-5 streak stats" />
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab-5&show_icons=true&locale=en&layout=compact" alt="shihab-5" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab-5&show_icons=true&locale=en" alt="shihab-5" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-5&" alt="shihab-5" /></p> 
 
 ## ☕ Support Me
 
