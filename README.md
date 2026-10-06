@@ -1,7 +1,7 @@
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/61d418a6-e06d-4d25-b092-672913d7113b" />
 
 <h1 align="center">Hi 👋, I'm Shihab Ul Islam</h1>
-<h3 align="center">Frontend Developer | Web Developer</h3>
+<h3 align="center">Full Stack Developer | Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shihab-5&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-5" />
@@ -14,8 +14,8 @@ I'm a passionate frontend developer from Bangladesh who loves turning ideas into
 
 ## 🚀 Current Activities
 
-- 🌱 I'm exploring **Next.js**
-- 🏗️ I'm working on a **Bank Management website**
+- 🌱 I'm exploring **AI Integration**
+- 🏗️ I'm working on a **FarmHouse Project**
 - 💬 Ask me about **React**
 - 📫 Reach me at **shihabuli364@gmail.com**
 
